@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = pawel.bedynski@gmail.com
+	name = Pawel Bedynski
